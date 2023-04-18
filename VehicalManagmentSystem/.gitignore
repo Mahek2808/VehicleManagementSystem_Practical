@@ -1,0 +1,6 @@
+################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/VehicleManagementSystem_Practical/obj/Release/Package/PackageTmp
+/packages

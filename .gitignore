@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/VehicalManagmentSystem/obj/Release/net6.0
+/VehicalManagmentSystem/obj/Debug/net6.0/refint
+/VehicalManagmentSystem/obj/Debug/net6.0/ref
+/VehicalManagmentSystem/obj/Debug/net6.0
+/.vs/VehicleManagementSystem_Practical/FileContentIndex
